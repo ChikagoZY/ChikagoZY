@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu sou Yago Claudino, estudante do SENAI estou na área Informatica para Internet.<br>Trabalho Home office há 1 ano e 5 meses. Amo Java, JavaScript<br>
+Eu sou Chikago Claudino, estudante de Programação estou na área Java Script.<br>Trabalho Home office há 1 ano e 5 meses. Amo Java, JavaScript<br>
 
 
 ## 🌐 Socials:
